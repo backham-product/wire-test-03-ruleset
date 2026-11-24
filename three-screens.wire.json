@@ -416,6 +416,25 @@
                         "slots": {}
                       }
                     ]
+                  },
+                  {
+                    "id": "n5oqyt0cl0",
+                    "type": "stack",
+                    "name": "",
+                    "layout": "flex",
+                    "columns": 3,
+                    "dir": "column",
+                    "align": "stretch",
+                    "justify": "start",
+                    "wrap": false,
+                    "size": "fill",
+                    "width": null,
+                    "pin": "none",
+                    "link": null,
+                    "note": "",
+                    "states": [],
+                    "classes": [],
+                    "children": []
                   }
                 ]
               }
